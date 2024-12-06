@@ -1,9 +1,0 @@
-/home/nidhi/Abhiyaan/parallel_parking/build/parking/CMakeFiles/uninstall.dir
-/home/nidhi/Abhiyaan/parallel_parking/build/parking/CMakeFiles/parking_uninstall.dir
-/home/nidhi/Abhiyaan/parallel_parking/build/parking/CMakeFiles/test.dir
-/home/nidhi/Abhiyaan/parallel_parking/build/parking/CMakeFiles/edit_cache.dir
-/home/nidhi/Abhiyaan/parallel_parking/build/parking/CMakeFiles/rebuild_cache.dir
-/home/nidhi/Abhiyaan/parallel_parking/build/parking/CMakeFiles/list_install_components.dir
-/home/nidhi/Abhiyaan/parallel_parking/build/parking/CMakeFiles/install.dir
-/home/nidhi/Abhiyaan/parallel_parking/build/parking/CMakeFiles/install/local.dir
-/home/nidhi/Abhiyaan/parallel_parking/build/parking/CMakeFiles/install/strip.dir
