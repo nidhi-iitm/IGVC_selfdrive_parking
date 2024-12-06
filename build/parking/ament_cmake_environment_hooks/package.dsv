@@ -1,0 +1,4 @@
+source;share/parking/local_setup.bash
+source;share/parking/local_setup.dsv
+source;share/parking/local_setup.sh
+source;share/parking/local_setup.zsh

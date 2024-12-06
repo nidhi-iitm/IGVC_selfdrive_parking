@@ -1,0 +1,2 @@
+Invoking command in '/home/nidhi/Abhiyaan/parallel_parking/build/parking': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/nidhi/Abhiyaan/parallel_parking/build/parking -- -j16 -l16
+Invoked command in '/home/nidhi/Abhiyaan/parallel_parking/build/parking' returned '2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/nidhi/Abhiyaan/parallel_parking/build/parking -- -j16 -l16
